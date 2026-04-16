@@ -7,7 +7,7 @@ This project focuses on **testability, accessibility, and responsiveness** as re
 ---
 
 ## 🚀 Live Demo
-👉 [View Live Project](#)  
+👉 [View Live Project](https://stage-0-todo-item-card.vercel.app/)  
 👉 [GitHub Repository](https://github.com/Emmanuel-Xs/stage-0_todo-item-card)
 
 ---
