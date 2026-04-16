@@ -195,6 +195,13 @@ body {
   gap: 0.8rem;
 }
 
+@media (max-width: 380px) {
+  .header-bottom {
+    flex-direction: column;
+    align-items: start;
+  }
+}
+
 .todo-status-priority {
   display: flex;
   align-items: center;
